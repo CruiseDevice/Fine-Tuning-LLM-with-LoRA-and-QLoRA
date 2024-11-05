@@ -1,2 +1,3 @@
 # Fine-Tuning-LLM-with-LoRA-and-QLoRA
- A fine-tuning technique that allows you to fine-tune and train model much more efficiently than normal training
+
+This project focuses on efficiently fine-tuning Large Language Models using LoRA and Hugging Face's transformers library.
